@@ -9,7 +9,7 @@ permalink: /1about/
 <small>1993 - Present | PEK - CDG - MUC - ZRH ->? </small>
 <p style='text-align: justify;'></p>
 
-我叫Helios，在中国长大。<br><br>目前是苏黎世联邦理工的一名在读博士生。X射线让我看到了超乎想象的奇妙微观世界，而光子照亮了我的生活让我能目睹这纷繁变迁的大千世界。不论是以科学亦或艺术的形式，摄影于我而言是以光之名的哲学。<br><br>My name is Helios, born and raised in China.<br><br>Currently I'm a doctoral candidate at ETH Zürich in Switzerland. X-ray tomography enables me to see the wonderful microscopic world beyond imagination, while photon has enlighted my life towards witnessing the rapid changing grand world by photography. No matter in the form of science or art, X-graphy is a philosophy for me in the name of the light. | <img src="/img/about/a01.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
+我叫Helios，在中国长大。<br><br>目前是苏黎世联邦理工的一名博士毕业生。X射线让我看到了超乎想象的奇妙微观世界，而光子照亮了我的生活让我能目睹这纷繁变迁的大千世界。不论是以科学亦或艺术的形式，摄影于我而言是以光之名的哲学。<br><br>My name is Helios, born and raised in China.<br><br>Currently I'm a PhD Graduate at ETH Zürich in Switzerland. X-ray tomography enables me to see the wonderful microscopic world beyond imagination, while photon has enlighted my life towards witnessing the rapid changing grand world by photography. No matter in the form of science or art, X-graphy is a philosophy for me in the name of the light. | <img src="/img/about/a01.jpg" alt="" width="100%">{:style="float: top; margin-right: 7px;margin-top: 7px;"}
 
 ---
 
@@ -20,11 +20,12 @@ permalink: /1about/
     <tr><td><small>手机 Smart Phones </small></td><td><small>相机 Digital Camera</small></td><td><small>单反 Single-lens Reflex Camera</small></td><td><small>运动相机 Action Camera</small></td></tr>
     <tr><td>2009/ Nokia N81</td><td>2009/ SONY DSC-T900</td><td>2012/ Nikon D90</td><td>2015/ GoPro Hero 5 (lost)</td></tr>
     <tr><td>2010/ Nokia N85</td><td> </td><td> </td><td>2016/ GoPro Hero 5</td></tr>
-    <tr><td>2011/ Motorola ME860</td><td> </td></tr>
+    <tr><td>2011/ Motorola ME860</td><td>2020/ DJI Pocket 2</td></tr>
     <tr><td>2012/ HTC T528w</td><td> </td></tr>
     <tr><td>2013/ iPhone 5s</td><td> </td></tr>
     <tr><td>2017/ iPhone 7</td><td> </td></tr>
     <tr><td>2019/ Huawei Mate 20</td><td> </td></tr>
+    <tr><td>2020/ iPhone XS Max</td><td> </td></tr>
   </table>
 </div>
 
