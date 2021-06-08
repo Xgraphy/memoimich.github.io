@@ -32,10 +32,6 @@ permalink: /1about/
 
 #### 教育背景 Education
 
-<small>2016 - 2020 | 瑞士 Switzerland </small><br>
-博士生, 能源与计算机成像, 苏黎世联邦理工<br>
-Ph.D Candiate, Renewable Energy/Computational Imaging, ETH Zurich<br>
-
-<small>2014 - 2016 | 德国 Germany </small><br>
-硕士, 材料科学, 慕尼黑工大<br>
-M.Sc, Materials Science, Technical University of Munich<br>
+<small>2016 - 2021 | 瑞士 Switzerland </small><br>
+博士, 新能源与计算机成像, 苏黎世联邦理工<br>
+Ph.D, Renewable Energy/Computational Imaging, ETH Zurich<br>
