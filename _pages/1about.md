@@ -19,7 +19,7 @@ permalink: /1about/
   <table>
     <tr><td><small>手机 Smart Phones </small></td><td><small>相机 Digital Camera</small></td><td><small>单反 Single-lens Reflex Camera</small></td><td><small>运动相机 Action Camera</small></td></tr>
     <tr><td>2009/ Nokia N81</td><td>2009/ SONY DSC-T900</td><td>2012/ Nikon D90 (broken)</td><td>2015/ GoPro Hero 5 (lost)</td></tr>
-    <tr><td>2010/ Nokia N85</td><td> </td><td> </td><td>2016/ GoPro Hero 5</td></tr>
+    <tr><td>2010/ Nokia N85</td><td>2021/ FujiFilm X-T200</td><td> </td><td>2016/ GoPro Hero 5</td></tr>
     <tr><td>2011/ Motorola ME860 (lost)</td><td> </td><td> </td><td>2020/ DJI Pocket 2</td></tr>
     <tr><td>2012/ HTC T528w</td><td> </td></tr>
     <tr><td>2013/ iPhone 5s</td><td> </td></tr>
@@ -33,6 +33,7 @@ permalink: /1about/
 
 #### 教育背景 Education
 
-<small>2016 - 2021 | 瑞士 Switzerland </small><br>
+<small>2017 - 2021 | 瑞士 Switzerland </small><br>
 博士, 新能源与计算机成像, 苏黎世联邦理工<br>
-Ph.D, Renewable Energy/Computational Imaging, ETH Zurich<br>
+PhD, Renewable Energy/Computational Imaging, ETH Zurich<br>
+
