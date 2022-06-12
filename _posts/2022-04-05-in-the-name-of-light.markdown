@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  以光之名 In the Name of the Light
-date:   2040-04-05 16:05:55 +0300
+date:   2022-04-05 16:05:55 +0300
 image:  Cover.jpg
 tags:   [以光之名]
 ---
